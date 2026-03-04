@@ -2,4 +2,4 @@
 Collection Professional Developement or Business Certs
 
 
-Owned by Zin Wen
+Owned by AricChong12 (Zin Wen)
