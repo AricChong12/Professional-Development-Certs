@@ -1,5 +1,5 @@
-# Professional-Development-Certs
-Professional Developement or Business Certs
+# Professional-Development-Business-Certs
+Professional Developement and Business Certs
 
 
 Owned by AricChong12 (Zin Wen)
