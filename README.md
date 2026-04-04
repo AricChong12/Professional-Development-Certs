@@ -6,4 +6,4 @@ Owned by AricChong12 (Zin Wen)
 
 
 Effective Leadership (My Leadership Style)
-
+![Leadership Style](https://github.com/AricChong12/Professional-Development-Certs/blob/main/Info/MyLeadershipStyle.png)
