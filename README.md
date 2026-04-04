@@ -6,7 +6,7 @@ Owned by AricChong12 (Zin Wen)
 
 
 VIA Survey
-[![Preview](./https://github.com/AricChong12/Professional-Development-Certs/blob/main/StrengthsProfile-Zin-Wen.pdf)](./https://github.com/AricChong12/Professional-Development-Certs/blob/main/StrengthsProfile-Zin-Wen.pdf)
+[View PDF](./https://github.com/AricChong12/Professional-Development-Certs/blob/main/StrengthsProfile-Zin-Wen.pdf)
 
 
 Effective Leadership (My Leadership Style)
