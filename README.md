@@ -5,10 +5,6 @@ Professional Developement and Business Certs
 Owned by AricChong12 (Zin Wen)
 
 
-VIA Survey
-
-
-[View PDF](https://github.com/AricChong12/Professional-Development-Certs/blob/main/StrengthsProfile-Zin-Wen.pdf)
 
 
 Effective Leadership (My Leadership Style)
