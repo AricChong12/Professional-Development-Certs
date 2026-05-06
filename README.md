@@ -14,4 +14,4 @@ Owned by AricChong12 (Zin Wen)
 
 # Certs
 ## Success Mindset
-[📄 View PDF](https://docs.google.com/gview?url=https://github.com/AricChong12/Professional-Development-Certs/blob/main/Success%20Mindset.pdf&embedded=true)
+📄 View PDF: [Open Document](https://github.com/AricChong12/Professional-Development-Certs/blob/main/Success%20Mindset.pdf)
