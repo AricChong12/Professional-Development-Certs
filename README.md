@@ -14,4 +14,12 @@ Owned by AricChong12 (Zin Wen)
 
 # Certs
 ## Success Mindset
+![Success Mindset](https://github.com/AricChong12/Professional-Development-Certs/blob/main/ImageCerts/Success_Mindset.png)
 
+
+## Effective Leadership
+![Effective Leadership](https://github.com/AricChong12/Professional-Development-Certs/blob/main/ImageCerts/Effective_Leadership.png)
+
+
+## Professional Networking
+![Professional Networking](https://github.com/AricChong12/Professional-Development-Certs/blob/main/ImageCerts/Professional_Networking.png)
